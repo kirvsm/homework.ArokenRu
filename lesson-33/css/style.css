@@ -1,0 +1,35 @@
+.come-text1 {
+    font-family: "open sans", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.come-text2 {
+    font-family: "Spectral SC", serif;
+    text-align: left;
+    text-decoration: line-through;
+}
+
+.come-text3 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: serif;
+    text-align: center;
+}
+
+.come-text4 {
+    word-spacing: 30px;
+    text-decoration-line: overline;
+    text-decoration-style: wavy;
+    text-shadow: 2px 2px 3px blue;
+}
+
+.come-text5 {
+    text-align: left;
+    letter-spacing: 5px;
+    text-decoration-line: underline;
+    text-decoration-thickness: 3px;
+}
