@@ -1,0 +1,21 @@
+.block {
+    padding: 15px;
+    margin: 5px;
+    background: #af9765;
+    width: 215px;
+    height: 150px;
+    display: inline-block;
+    border-radius: 20px;
+    box-shadow: inset 0px 0px 9px 2px;
+    box-sizing: content-box;
+}
+
+.ooo {
+    border: 2px solid #000;
+    background: #ccd3d4;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    height: 500px;
+    width: 1200px;
+    overflow: auto;
+}
